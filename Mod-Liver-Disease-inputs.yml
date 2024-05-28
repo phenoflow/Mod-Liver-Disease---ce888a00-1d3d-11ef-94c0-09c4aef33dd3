@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/mod-liver-disease-bleeding---primary.py
+inputModule3:
+  class: File
+  path: python/chronic-mod-liver-disease---primary.py
+inputModule4:
+  class: File
+  path: python/oesophageal-mod-liver-disease---primary.py
+inputModule5:
+  class: File
+  path: python/other-mod-liver-disease---primary.py
+inputModule6:
+  class: File
+  path: python/hepatic-mod-liver-disease---primary.py
+inputModule7:
+  class: File
+  path: python/mod-liver-disease-cirrhosis---primary.py
+inputModule8:
+  class: File
+  path: python/viral-mod-liver-disease---primary.py
+inputModule9:
+  class: File
+  path: python/hepatorenal-mod-liver-disease---primary.py
+inputModule10:
+  class: File
+  path: python/mod-liver-disease-hypertension---primary.py
+inputModule11:
+  class: File
+  path: python/deltaagent-mod-liver-disease---primary.py
+inputModule12:
+  class: File
+  path: python/mod-liver-disease-failure---primary.py
+inputModule13:
+  class: File
+  path: python/acute-mod-liver-disease---primary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
